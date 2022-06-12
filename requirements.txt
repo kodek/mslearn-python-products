@@ -1,2 +1,7 @@
 # Flask Framework
-Flask==2.0.3
+Flask==2.1.2
+dnspython==2.2.1
+mypy==0.960
+mypy-extensions==0.4.3
+pycryptodome==3.14.1
+dkimpy==1.0.5
